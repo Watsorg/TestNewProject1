@@ -6,7 +6,7 @@
   <artifactId>TestNewProject1</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <packaging>kjar</packaging>
-  <name>TestNewProject1</name>
+  <name>TestNewProject12</name>
   <description>TEST</description>
   <dependencies>
     <dependency>
